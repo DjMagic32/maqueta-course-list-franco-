@@ -679,7 +679,8 @@ a:-webkit-any-link {
     background-color: #561f66;
     height: 5.6rem;
     align-items: center;
-    border-bottom: 1px solid #561f66
+    border-bottom: 1px solid #561f66;
+    z-index: 3;
 }
 
 .app--row.app--header .app--row-content {
